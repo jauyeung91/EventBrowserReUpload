@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StoryFinderNeo</string>
+    <string name="app_label">Search</string>
+    <string name="search_label">search me</string>
+    <string name="action_settings">storyAction</string>
+    <string name="story_title_label">Title</string>
+    <string name="story_details_label">Description</string>
+    <string name="story_details_stuff">Name</string>
+    <string name="story_name">Name</string>
+    <string name="story_description">Description</string>
+    <string name="story_title">Title</string>
+    <string name="search_hint">hint</string>
+    <string name="search_title">searchMe</string>
+</resources>
